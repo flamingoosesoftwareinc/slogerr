@@ -1,0 +1,1 @@
+level=ERROR msg="op failed" err.tenant=acme err.table=visitors err.op=SELECT

@@ -1,0 +1,1 @@
+level=ERROR msg="op failed" err.region=us-east-1 err.service=auth err.host=db.local
