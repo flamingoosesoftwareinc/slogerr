@@ -1,0 +1,1 @@
+level=ERROR msg="op failed" err.message="not found" err.resource=visitor err.id=abc123

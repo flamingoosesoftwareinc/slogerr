@@ -1,0 +1,1 @@
+{"level":"ERROR","msg":"request failed","error":{"message":"query failed: disk unavailable","operation":"read","host":"db"}}
